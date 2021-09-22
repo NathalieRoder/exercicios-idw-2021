@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf8">
+        <title>Site DAAD</title>
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+            <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+            <link href="https://fonts.googleapis.com/css2?family=Glory:ital,wght@1,300&display=swap" rel="stylesheet">
+        <style type = "text/css">
+            header {
+                background-color: white;
+                color: white;
+            }
+            body 
+            {
+            font-family: 'Glory';
+            }
+            aside {
+                background-color: whitesmoke;
+                width: 30%;
+                float: right;
+                margin-top: 20px;
+            }
+            nav {
+                background-color: whitesmoke;
+                margin: 10px;
+                color:darkblue;
+                font-weight: bold;
+            }
+            a {
+                margin-right: 20px;
+            }
+            #p {
+                color:black;
+            }
+        
+            section{
+                background-color: darkblue;
+                width: 70%;
+                float: left;
+                color: white;
+            }
+            article {
+                padding: 10px;
+            }
+            footer {
+                background-color: whitesmoke;
+                color: white;
+                clear: both;
+                
+            }
+            #img {
+                float: left;
+                width: 20%;
+            }
+        </style>
+    </head>
+    <body>
+        <header><img src="daad brasil.png" width="50%" alt="Logo"></header>
+        <nav>
+        <a href= #>Início</a>
+        <a href= #>Estudar & pesquisar na Alemanha</a>
+        <a href= #>Estudar & pesquisar no Brasil</a>
+        <a href= #>Encontrar Financiamento</a>
+        <a href= #>Quem somos</a></nav>
+        <aside>
+        <nav>Para o público
+            <h1>Atendimento Online</h1><br>
+            <img src="atendimentonovo.jpg"><br>
+            <p id="p">As equipes do DAAD no Rio de Janeiro e em São Paulo oferecem regularmente orientação para interessados em estudos e pesquisa na Alemanha. Por causa da pandemia de Covid-19 passamos a oferecer sessões de atendimento online semanais, além das opções de contato telefônico e por e-mail.</p>
+            <a href=#>>>Saiba como buscar atendimento</a>
+        </nav>
+        <nav>Não Perca!<br>
+            <img src="não perca.jpg"><br>
+            <h1>Newsletter</h1>
+            <p id="p">Assine nossa newsletter e receba as novidades do DAAD Brasil por e-mail.</p>
+            <a href= #>>>Assine aqui</a>
+        </nav>
+        <nav>Escritórios Regionais<br>
+            <img src="staticmap.png"><br>
+            <a href=#>Rio de Janeiro</a><br>
+            <a href=#>São Paulo</a>
+        </nav>
+        <nav>Anúncios de Universidades Alemãs<br>
+            <a href=#>>>Saiba mais</a>
+        </nav>
+        </aside>
+        <section>
+        <article>Pandemia<br>
+            <h1>Suspensas as restrições de ingresso na Alemanha</h1><br>
+            <img src="regras_entrada_Alemanha.jpg" id= "img"><br>
+            <p>Desde 19/09/2021, dada a melhora dos índices de infecção, o Brasil não é mais considerado zona de alto risco. Com isso, foram suspensas as restrições à entrada de brasileiros na Alemanha. Confira os detalhes no site da embaixada alemã.</p>
+            <a href= #>>>Saiba Mais</a>
+        </article><br>
+        <article>Notícias<br>
+            <h1>DAAD fomenta a cooperação internacional virtual</h1><br>
+            <img src="cooperação.jpg" id= "img"><br>
+            <p>Lançado em 2020 pelo DAAD como resposta aos defasios impostos pela pandemia, o programa "International Virtual Academic Collaboration" voltou a selecinar dois projetos propostos por universidades alemãs em parceria com instituições brasileiras. Conheça as possibilidades de financiamento do IVAC e os projetos selecionados.</p>
+            <h1>Programa CAPES/DAAD de doutorado na Alemanha</h1><br>
+            <img src="doutorado.jpg" id= "img"><br>
+            <P>Estão abertas até 30/09/2021 as inscrições ao Programa Conjunto de Bolsas de Doutorado na Alemanha CAPES/DAAD. Os candidatos podem escolher enytre três modalidades de bolsa oferecidas pelas duas agências e uma quarta modalidade do DAAD.</P>
+        </article><br>
+        <article>Seleção<br>
+            <h1>Vagas de estágio em Comunicação no DAAD</h1>
+            <img src="seleção.jpg" id= "img"><br>
+            <p>O escritório regional do DAAD no Rio de Janeiro recebe candidaturas a duas vagas de estágio em Comunicação Social atpe o dia 12/09/2021. oS estudantes devem ter domínio do português e conhecimento intermadiário de alemão (B2). Conheça os requisitos e principais atividades do Estagio.</p>
+            <a href= #>>>Mais</a>
+        </article><br>
+        <article>Coronavírus<br>
+            <h1>Informação sobre os impactos da pandemia no trabalho do DAAD</h1><br>
+            <img src="pandemia.jpg" id= "img"><br>
+            <p>O DAAD está monitorando constantemente os desdobramentos da pandemia do Covid-19 e vem adaptando suas atividades em resposta à crise internacional que impossibilita a mobilidade acadêmica no momento. A proteção dos bolsistas, parceiros e funcionários do DAAD é prioridade. Acompanhe as atualizações através do site de nossa central.</p>
+            <a href= #>>>Saiba Mais</a>
+        </article><br>
+        </section>
+        <footer>
+            <nav><a href= #>Expediente</a>
+            <a href= #>Declaração de Privacidade</a>
+            <a href= #>Newsletter</a></nav>
+        </footer>
+
+    </body>
+    </html>
